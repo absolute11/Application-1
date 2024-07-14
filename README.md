@@ -63,13 +63,13 @@ mvn clean install
 mvn spring-boot:run
 
 ## Использование
-API Endpoints
-GET /customers - Получить всех пользователей (только для ADMIN)
-GET /customers/{email} - Получить пользователя по email (для USER и ADMIN)
-POST /customers - Создать нового пользователя (только для ADMIN)
-PUT /customers/{email} - Обновить пользователя по email (только для ADMIN)
-DELETE /customers/{email} - Удалить пользователя по email (только для ADMIN)
+- **API Endpoints**
+- **GET** /customers - Получить всех пользователей (только для ADMIN)
+- **GET** /customers/{email} - Получить пользователя по email (для USER и ADMIN)
+- **POST** /customers - Создать нового пользователя (только для ADMIN)
+- **PUT** /customers/{email} - Обновить пользователя по email (только для ADMIN)
+- **DELETE** /customers/{email} - Удалить пользователя по email (только для ADMIN)
 
 ## Контакты 
-email : den.gitelman@gmail.com
-tg: t.me/f0rtunaaz
+- **email** : den.gitelman@gmail.com
+- **tg**: t.me/f0rtunaaz
